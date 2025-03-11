@@ -2,14 +2,14 @@
 
 ![Honey - Modern Food & Restaurant Website](/.github/images/img_main.png "Honey - Modern Food & Restaurant Website")
 
-[![Ask Me Anything!](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/Technical-Shubham-tech "Ask Me Anything!")
-[![GitHub license](https://img.shields.io/github/license/Technical-Shubham-tech/honey)](https://github.com/Technical-Shubham-tech/honey/blob/main/LICENSE.md "GitHub license")
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/Technical-Shubham-tech/honey/commits/main "Maintenance")
-[![GitHub branches](https://badgen.net/github/branches/Technical-Shubham-tech/honey)](https://github.com/Technical-Shubham-tech/honey/branches "GitHub branches")
-[![Github commits](https://badgen.net/github/commits/Technical-Shubham-tech/honey/main)](https://github.com/Technical-Shubham-tech/honey/commits "Github commits")
-[![Netlify Status](https://api.netlify.com/api/v1/badges/ae743696-8136-4141-842f-442367faca34/deploy-status)](https://honeysite.netlify.app/ "Netlify Status")
-[![GitHub issues](https://img.shields.io/github/issues/Technical-Shubham-tech/honey)](https://github.com/Technical-Shubham-tech/honey/issues "GitHub issues")
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/Technical-Shubham-tech/honey)](https://github.com/Technical-Shubham-tech/honey/pulls "GitHub pull requests")
+[![Ask Me Anything!](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)]( "Ask Me Anything!")
+[![GitHub license](https://img.shields.io/github/license/Technical-Shubham-tech/honey)](/blob/main/LICENSE.md "GitHub license")
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)]( "Maintenance")
+[![GitHub branches](https://badgen.net/github/branches/Technical-Shubham-tech/honey)](/branches "GitHub branches")
+[![Github commits](https://badgen.net/github/commits/Technical-Shubham-tech/honey/main)](/commits "Github commits")
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ae743696-8136-4141-842f-442367faca34/deploy-status)](")
+[![GitHub issues](https://img.shields.io/github/issues/Technical-Shubham-tech/honey)](/issues "GitHub issues")
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/Technical-Shubham-tech/honey)](/pulls "GitHub pull requests")
 
 ## :camera: Screenshots:
 
